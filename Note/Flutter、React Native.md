@@ -1,0 +1,6 @@
+>Q: 移动端开发中的 Flutter、React Native、MRN这些都是什么？
+
+Flutter、React Native和MRN都是移动应用程序开发框架。它们的目标是通过一种代码库来构建跨平台的移动应用程序，即一次编写，多平台运行。下面是它们的简要介绍：
+1. Flutter：Flutter是由Google开发的一个移动应用程序开发框架，它使用Dart语言编写。Flutter的最大特点是快速的渲染速度和优秀的性能，以及具有响应式框架的组件，可以快速构建美观的用户界面。Flutter还提供了许多插件和工具，可以轻松地进行集成和调试。
+2. React Native：React Native是Facebook开发的一个移动应用程序开发框架，它使用JavaScript语言编写。React Native基于React框架，通过使用JavaScript和原生组件来构建跨平台的移动应用程序。React Native的主要优势是易于学习和使用，以及它的生态系统支持非常广泛，可以让开发人员使用许多第三方库和插件。
+3. MRN：MRN是微软开发的一个移动应用程序开发框架，它基于React Native，并具有与微软技术栈的集成和优化。 MRN提供了许多跨平台的组件和API，可以在iOS、Android和Windows等多个平台上构建跨平台的移动应用程序。 MRN的优点是易于学习和使用，并且与Microsoft Azure等微软技术栈集成良好。
